@@ -105,7 +105,7 @@ Task:
     Sonarlint - Sonarsource
     EsLint - Microsoft
     HTML CSS Support - ecmel
-    HTML - Snippets - geyao
+    HTML - Snippets - HTML Boilerplate
     Bracket Pair Colorization Toggler - Dzhavat Ushev
     Tabnine: AI Autocomplete & Chat
 
