@@ -113,7 +113,7 @@ Task:
 
     Create a folder for Input/Output Concept
   
-    Open in VSCode
+    Open the created folder in VSCode
 
   note: **Do Not Start CodeKata Coding, We will start next Week**
 
