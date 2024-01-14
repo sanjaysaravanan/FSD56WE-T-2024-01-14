@@ -1,0 +1,163 @@
+CodeKata:
+  Day 1
+  Day 2
+  Day 3
+  Day 4
+
+Git & Github
+
+Roadmap:
+
+  Basics of JavaScript
+
+  HTML, CSS
+
+  JS Advanced
+
+  Basics of React
+
+  Advanced React
+
+  DB:
+    SQL
+    NoSQL:
+      MongoDB
+
+  NodeJS:
+    ExpressJS
+  
+    Authentication & Authorization
+
+Expectations from Candidates:
+
+  1. Join with Laptop - So that You can try simultaneously
+  2. listen carefully
+  3. Please try to answer all the questions in the session
+  4. Revise and Come for every session
+
+Email:
+  sanjaysaravanan38@gmail.com
+
+  Please raise query, incase if its getting late or someother reason.
+  Try reaching Me.
+
+Requirements to Start Coding:
+
+CodeKata Topics:
+
+  Datatypes:
+    Basic Primitive:
+      Number, String, Boolean, undefined (default value for a declaration) ( not yet defined ), null ( empty forever )
+    
+    Composite: ( combination of Primitive types together )
+      Array: sequential storage with incremantal index
+      
+      Object: key <-> value pair where key acts as an index/identifier
+
+  Variables:
+    naming a storage which contains some values in JS Memory during run time
+
+    var i = 0;
+
+    var arr = [1, 2, 3, 4, 5, 6, 7];
+
+    Declartion:
+      var a;
+      let a;
+    initialization
+      a = 100;
+
+  String Methods:
+    split
+
+  Typecasting: changing the datatype of the value
+    Number to string
+    string to number
+
+    typeof
+
+  Array Methods:
+
+    get length of an array
+
+    array.join
+
+    length -> single value ( property/attribute ) lenght of the array
+
+    push -> method/function (action) insert an element at last
+      return new length( number of elements in the array ) of the array
+    pop -> method/function (action) remove an element from last
+      return the removed element value
+
+  Prepaartion for CodeKata:
+
+Task:
+  Downloads & Installation:
+    1. VSCode - https://code.visualstudio.com/download
+    2. NodeJS - https://nodejs.org/en/download
+
+    Install both the downloaded Items
+
+  VScode Extensions:
+    Live Server - Ritwick Dey
+    vscode Icons - VsCode Icons Team
+    Sonarlint - Sonarsource
+    EsLint - Microsoft
+    HTML CSS Support - ecmel
+    HTML - Snippets - geyao
+    Bracket Pair Colorization Toggler - Dzhavat Ushev
+    Tabnine: AI Autocomplete & Chat
+
+  Create a separate for CodeKata: 
+
+    Create a folder for Input/Output Concept
+  
+    Open in VSCode
+
+  note: **Do Not Start CodeKata Coding, We will start next Week**
+
+Next Session:
+
+  Scope
+    global ---> parent scope every scopes ()
+
+      function ( inside function (){} )
+
+      block {}
+
+    {} ---> block of lines
+
+    [] ---> Array of elements
+
+    () ---> methods/functions
+
+  looping, conditions, simple problems
+
+    looping: it is a process of repeating a block statements again and again
+
+    for, while, do while
+
+    how many times or when to stop the looping
+
+    concepts in looping
+    initialization, termination condition, inc/drec
+
+  Conditional Statements:
+
+    Operators:
+
+      Arithemetic: +, -, *, /, %( 5 % 2 ---> 1 ( remainder) )
+      Assignment: =
+      Logical: &(and), |(or), !(not), &&, ||
+      compariason: >, <, >=, <=, !=, ==, ===
+      Boolean: true or false
+
+    == vs ===
+
+    LHS vs RHS
+
+    if else
+
+    
+
+  Iteration of iterable types:
