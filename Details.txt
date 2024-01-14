@@ -41,7 +41,7 @@ Email:
   Please raise query, incase if its getting late or someother reason.
   Try reaching Me.
 
-Requirements to Start Coding:
+
 
 CodeKata Topics:
 
@@ -92,6 +92,7 @@ CodeKata Topics:
   Prepaartion for CodeKata:
 
 Task:
+  Requirements to Start Coding:
   Downloads & Installation:
     1. VSCode - https://code.visualstudio.com/download
     2. NodeJS - https://nodejs.org/en/download
