@@ -68,7 +68,7 @@ CodeKata Topics:
       a = 100;
 
   String Methods:
-    split
+    split - split a string into array strings
 
   Typecasting: changing the datatype of the value
     Number to string
@@ -80,7 +80,7 @@ CodeKata Topics:
 
     get length of an array
 
-    array.join
+    array.join - join a array of values into a string
 
     length -> single value ( property/attribute ) lenght of the array
 
